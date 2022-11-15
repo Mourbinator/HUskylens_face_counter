@@ -100,22 +100,5 @@ void printResult(HUSKYLENSResult result){
 
     
     
-   /* if(result.ID == 0 )
-    {
-      
-      count++;      
-      Serial.println(count);       
-    }
     
-    else if ((result.ID >= 1) && (result.ID != lastID))
-    {
-      Serial.println("reconnu");
-      
-    }
-     
-     / count--;
-     // Serial.println(count);
-     
-    
-    return 0;  */  
 }
